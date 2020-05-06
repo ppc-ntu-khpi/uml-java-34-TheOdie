@@ -15,8 +15,9 @@
 ## Використанні інструменти
 1. [easyUML for Netbeans](http://plugins.netbeans.org/plugin/55435/easyuml)
 
-#####  Завдання яке виконав
+##  Завдання яке виконав
 5. система керування закладом громадського харчування (страви, замовлення, клієнти, працівники тощо)
+## Діаграма
 <img src="https://github.com/ppc-ntu-khpi/uml-java-34-TheOdie/blob/master/photo_2020-05-06_23-35-17.jpg" width="60%"/>
 
 
